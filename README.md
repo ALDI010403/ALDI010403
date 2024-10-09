@@ -1,4 +1,4 @@
-# Hi there, I'm Aldi As'ad! 👋
+# Hi there, I'm Aldi ! 👋
 
 ### 👨‍💻 About Me:
 I am a Informatics Engineering student at Faletehan University, Serang-Banten, with a passion for technology and software development. I am particularly interested in **Mobile Development**, **UI/UX Design**, and **Web Development**. My goal is to become a professional Software Developer, and I am constantly seeking opportunities to learn and grow in this dynamic field.
